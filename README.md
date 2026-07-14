@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Assalamu Alaikum 👋, I'm Pape Seck</h1>
 
-<!--
-**noor-digital/noor-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Web Developer | PHP • Laravel • JavaScript</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern web solutions through <strong>Noor Digital</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🇸🇳 Based in Dakar, Senegal
+- 🎓 Licence 1 in Computer Science (IDA) completed
+- 📚 Full Stack Web Development student at 10H Tech
+- 💻 Passionate about modern web development
+- 🌱 Currently improving my Laravel and JavaScript skills
+- 🎯 Goal: Build impactful web applications and contribute to meaningful projects, In Sha Allah.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+
+### Backend
+
+- PHP
+- Laravel
+
+### Database
+
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Canva
+- Composer
+- Laragon
+- XAMPP
+- Postman
+
+---
+
+## 📂 Current Projects
+
+- 🌐 Noor Digital Portfolio
+- 🎓 Laravel LMS Platform
+- 🏫 School Management System
+- 🤝 ASESI Website
+- 💼 Business Management Application
+
+---
+
+## 📫 Contact
+
+📧 **papeseck.dev@gmail.com**
+
+---
+
+> "Indeed, Allah loves that when one of you does a job, he perfects it."
