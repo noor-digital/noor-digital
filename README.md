@@ -11,7 +11,7 @@ Building modern web solutions through <strong>Noor Digital</strong>.
 ## 👨‍💻 About Me
 
 - 🇸🇳 Based in Dakar, Senegal
-- 🎓 Licence 1 in Computer Science (IDA) completed
+- 🎓 Licence 2 in Computer Science (IDA) completed
 - 📚 Full Stack Web Development student at 10H Tech
 - 💻 Passionate about modern web development
 - 🌱 Currently improving my Laravel and JavaScript skills
