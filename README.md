@@ -72,8 +72,8 @@ A selection of projects from my development journey. Explore the repositories to
 ## GitHub overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noor-digital&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6A84B&icon_color=D6A84B&text_color=E8E2D6&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-digital&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6A84B&text_color=E8E2D6&langs_count=6" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=noor-digital&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6A84B&icon_color=D6A84B&text_color=E8E2D6&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noor-digital&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6A84B&text_color=E8E2D6&langs_count=6" alt="Most used languages" />
 </div>
 
 <div align="center">
