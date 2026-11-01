@@ -1,38 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">NOOR DIGITAL — Manga-inspired developer banner</title>
-  <desc id="desc">Original manga-inspired night city scene with a fictional masked hero silhouette, speed lines and warm amber light.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111315"/><stop offset=".58" stop-color="#242321"/><stop offset="1" stop-color="#49351f"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#f8d98b"/><stop offset="1" stop-color="#c7832d"/>
-    </linearGradient>
-    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#f4ead5" opacity=".2"/>
-    </pattern>
-    <clipPath id="panel"><rect width="1200" height="420" rx="22"/></clipPath>
-  </defs>
-  <g clip-path="url(#panel)">
-    <rect width="1200" height="420" fill="url(#bg)"/>
-    <path d="M0 65L760 0M0 110L900 0M0 165L1020 0M0 225L1150 0M0 290L1200 55M0 355L1200 145" stroke="#f3e7d2" stroke-width="2" opacity=".12"/>
-    <path d="M730 0H1200V420H650Z" fill="url(#dots)" opacity=".9"/>
-    <circle cx="970" cy="190" r="145" fill="#d99a42" opacity=".12"/>
-    <circle cx="970" cy="190" r="108" fill="none" stroke="#e7b65e" stroke-width="2" opacity=".42"/>
-    <path d="M690 420L770 260 840 220 900 235 945 290 1000 420Z" fill="#0b0d0e"/>
-    <path d="M790 275L835 190 900 150 965 170 1015 240 990 310 940 340 850 325Z" fill="#141719" stroke="#e5b45d" stroke-width="3"/>
-    <path d="M822 207L850 148 907 115 966 140 1001 190 955 176 925 190 890 180 856 218Z" fill="#080a0b" stroke="#f0d7a5" stroke-width="2"/>
-    <path d="M858 238L900 225 930 235 958 226" fill="none" stroke="#f5dfb5" stroke-width="4"/>
-    <path d="M880 255L915 247 944 256" fill="none" stroke="#d99a42" stroke-width="3"/>
-    <path d="M770 420L820 330 890 305 940 335 1000 420" fill="#202326" stroke="#d99a42" stroke-width="2"/>
-    <path d="M1040 0L1000 95 1060 80 1025 165 1110 125 1065 235 1170 180" fill="none" stroke="#f2c879" stroke-width="4" opacity=".5"/>
-    <path d="M0 380L680 315M0 400L590 350M0 420L510 385" stroke="#e4b35d" stroke-width="2" opacity=".25"/>
-    <rect x="48" y="48" width="7" height="300" fill="url(#glow)"/>
-    <text x="88" y="130" fill="#f7f0e4" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="7">NOOR DIGITAL</text>
-    <text x="82" y="215" fill="#fff8ea" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">MAMADOU</text>
-    <text x="82" y="282" fill="#fff8ea" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">DIA SECK</text>
-    <path d="M88 310H475" stroke="#d99a42" stroke-width="4"/>
-    <text x="88" y="355" fill="#e8bd76" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">WEB DEVELOPER  /  DAKAR, SENEGAL</text>
-    <text x="1115" y="385" text-anchor="end" fill="#f5e8d1" opacity=".7" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4">01 — BUILD WITH PURPOSE</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
+<title id="t">NOOR DIGITAL — Le pouvoir de créer</title>
+<desc id="d">Bannière manga originale : jeune développeur fictif en silhouette, ville nocturne, lune croissante, motifs géométriques et énergie lumineuse dorée.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10131a"/><stop offset=".55" stop-color="#24202a"/><stop offset="1" stop-color="#493322"/></linearGradient>
+ <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff0b9"/><stop offset=".45" stop-color="#e7b65e"/><stop offset="1" stop-color="#a95e32"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#e7b65e" stop-opacity=".34"/><stop offset="1" stop-color="#e7b65e" stop-opacity="0"/></radialGradient>
+ <pattern id="geo" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M27 2L52 27 27 52 2 27Z M27 13L41 27 27 41 13 27Z" fill="none" stroke="#e7b65e" stroke-width="1" opacity=".19"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="430" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="430" fill="url(#bg)"/>
+ <path d="M0 0H1200L850 430H0Z" fill="#090c12" opacity=".32"/>
+ <rect x="770" width="430" height="430" fill="url(#geo)" opacity=".75"/>
+ <circle cx="970" cy="205" r="205" fill="url(#aura)"/>
+ <circle cx="974" cy="174" r="102" fill="none" stroke="#e7b65e" stroke-width="2" opacity=".55"/>
+ <path d="M1005 85a91 91 0 1 0 71 151 82 82 0 1 1-71-151Z" fill="url(#gold)" opacity=".9"/>
+ <g stroke="#f7e8c7" stroke-width="2" opacity=".16">
+  <path d="M0 75L720 0M0 130L800 0M0 190L900 0M0 260L1020 0M0 330L1140 0"/>
+  <path d="M640 430L1200 70M710 430L1200 145M790 430L1200 230"/>
+ </g>
+ <g fill="#0b0d12" stroke="#e7b65e" stroke-width="2">
+  <path d="M760 430l35-132 52-72 61-28 57 30 42 85 33 117Z"/>
+  <path d="M830 239l-5-67 43-64 73-19 65 37 23 65-42-18-32 13-37-9-37 27-21 48Z"/>
+  <path d="M850 194l43-24 38 7 34-13 36 27-28 16-42-4-36 13-36-6Z" fill="#171923"/>
+  <path d="M875 205l34-8 28 8 28-8" fill="none" stroke="#f7e8c7" stroke-width="4"/>
+  <path d="M847 304l72-28 73 23 57 131H783Z" fill="#191b25"/>
+ </g>
+ <path d="M795 288l-96 142M1030 282l130 148M750 220l-110 75M1080 265l120 38" stroke="url(#gold)" stroke-width="5" opacity=".7"/>
+ <path d="M0 370L590 300M0 397L530 340M0 425L475 380" stroke="#e7b65e" stroke-width="2" opacity=".25"/>
+ <rect x="58" y="56" width="6" height="310" fill="url(#gold)"/>
+ <text x="92" y="104" fill="#e7b65e" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="7">NOOR DIGITAL · THE CREATOR'S PATH</text>
+ <text x="88" y="194" fill="#fff8ea" font-family="Arial,sans-serif" font-size="66" font-weight="900" letter-spacing="-2">MAMADOU</text>
+ <text x="88" y="264" fill="#fff8ea" font-family="Arial,sans-serif" font-size="66" font-weight="900" letter-spacing="-2">DIA SECK</text>
+ <path d="M92 290H480" stroke="url(#gold)" stroke-width="4"/>
+ <text x="92" y="333" fill="#f1d8a8" font-family="Arial,sans-serif" font-size="19" letter-spacing="3">FULL STACK WEB DEVELOPER</text>
+ <text x="92" y="370" fill="#c9c1b6" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">DAKAR · SENEGAL</text>
+ <text x="1138" y="395" text-anchor="end" fill="#f1d8a8" font-family="Arial,sans-serif" font-size="12" letter-spacing="4">01 / LA LUMIÈRE QUI STRUCTURE</text>
+</g></svg>
