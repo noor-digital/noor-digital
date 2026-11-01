@@ -3,6 +3,8 @@
 
 <img src="./assets/manga-banner.svg" width="100%" alt="NOOR DIGITAL — Mamadou Dia Seck" />
 
+<img src="./assets/noor-avatar.svg" width="150" alt="Avatar manga original NOOR DIGITAL" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=E7B65E&center=true&vCenter=true&width=780&lines=Je+transforme+les+id%C3%A9es+en+exp%C3%A9riences+digitales.;React+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel;Cr%C3%A9ativit%C3%A9.+Discipline.+Code.;Depuis+Dakar%2C+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Présentation animée" />
 
 ### **NOOR DIGITAL — La lumière qui structure.**
