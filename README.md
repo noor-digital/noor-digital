@@ -71,6 +71,43 @@ J'aime construire des expériences numériques utiles, soigner les détails d'in
 
 </div>
 
+## 🖼️ CHAPITRE 03.5 — Les projets en images
+
+*Quelques aperçus réels des applications en fonctionnement. Clique sur une image pour ouvrir la démo.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://noor-digital.github.io/mangora/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/images/projects/mangora-serie-fiche-desktop.png" width="100%" alt="Capture réelle de MANGORA, fiche de série manga" /></a>
+<strong>MANGORA</strong><br/>Plateforme immersive de découverte et de lecture.
+</td>
+<td width="50%" valign="top">
+<a href="https://noor-digital.github.io/aeris-meteo/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/aeris-meteo.png" width="100%" alt="Capture réelle de l'application Aeris Météo" /></a>
+<strong>AERIS MÉTÉO</strong><br/>Prévisions météo et ambiance dynamique selon le ciel.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://noor-digital.github.io/nova-shop/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/nova-shop.png" width="100%" alt="Capture réelle de NOVA SHOP" /></a>
+<strong>NOVA SHOP</strong><br/>Boutique interactive avec catalogue, favoris et panier.
+</td>
+<td width="50%" valign="top">
+<a href="https://sabaly-consulting-green.vercel.app/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/sabaly-consulting.png" width="100%" alt="Capture réelle du site Sabaly Consulting" /></a>
+<strong>SABALY CONSULTING</strong><br/>Site vitrine professionnel multi-pages.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://to-do-list-sigma-woad-32.vercel.app/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/todo-list.png" width="100%" alt="Capture réelle de l'application To-Do List" /></a>
+<strong>TO-DO LIST</strong><br/>Organisation des tâches et sauvegarde locale.
+</td>
+<td width="50%" valign="top">
+<a href="https://vocal-queue-system.vercel.app/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/vocal-queue-system.png" width="100%" alt="Capture réelle de Vocal Queue System" /></a>
+<strong>VOCAL QUEUE SYSTEM</strong><br/>Compteur de file d'attente avec annonces vocales.
+</td>
+</tr>
+</table>
+
 ## 📈 CHAPITRE 04 — Progression
 
 <div align="center">
