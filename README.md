@@ -1,92 +1,80 @@
-# Assalamu Alaikum 👋 I'm Pape Seck
+# Assalamu Alaikum 👋 I'm Mamadou Dia Seck
 
-### Full Stack Web Developer | PHP • Laravel • JavaScript
+### Web Developer | React • JavaScript • PHP • Laravel
 
-Building modern, responsive web applications through **Noor Digital**.
+<p align="center">
+  <strong>NOOR DIGITAL — La lumière qui structure.</strong><br />
+  Building thoughtful digital experiences from Dakar, Senegal.
+</p>
 
-I enjoy turning ideas into practical web experiences, combining thoughtful interface design with functional application logic. I'm continuously improving my development skills and building projects to strengthen my expertise.
+I'm a web developer and Computer Science student passionate about creating modern, responsive, and useful web experiences. Through **NOOR DIGITAL**, I develop projects that bring together clean interfaces, practical features, and maintainable code.
+
+🌐 **Portfolio:** [noor-digital.github.io/noor-digital-portfolio](https://noor-digital.github.io/noor-digital-portfolio/)
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🇸🇳 Based in Dakar, Senegal
-- 🎓 Computer Science student at UVS — Licence 2
-- 💻 Completed a Full Stack Web Development training program
-- 🌱 Currently strengthening my skills in PHP, Laravel, JavaScript, and MySQL
-- 🎯 Interested in building useful, maintainable, and user-focused web applications
-- 🤝 Open to learning opportunities, internships, and collaborative projects
+- 🎓 Licence 2 student in Computer Science at the Université Virtuelle du Sénégal (UVS)
+- 💻 Full Stack Web Development training completed at 10 TECH
+- ⚛️ Building frontend interfaces with React and JavaScript
+- 🔧 Working with PHP, Laravel, and MySQL for backend development
+- 🤝 Open to internships, professional opportunities, and collaborative projects
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Frontend**
+**Frontend**  
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Tailwind CSS` · `Bootstrap`
 
-`HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `Tailwind CSS`
-
-**Backend**
-
+**Backend**  
 `PHP` · `Laravel`
 
-**Database**
-
+**Database**  
 `MySQL`
 
-**Tools**
-
-`Git` · `GitHub` · `VS Code` · `Composer` · `Postman` · `XAMPP` · Laragon · `Figma`
+**Tools**  
+`Git` · `GitHub` · `VS Code` · `Figma` · `Composer` · `Postman` · `XAMPP`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 🌦️ Aeris Météo
+A selection of projects developed as part of my learning journey and professional work.
 
-A weather application focused on dynamic weather information, city search, and an interactive user interface.
+| Project | Overview | Repository |
+|---|---|---|
+| **MANGORA** | Manga discovery and reading platform with an immersive interface. | [View project](https://github.com/noor-digital/mangora) |
+| **Nova Shop** | E-commerce project focused on the online shopping experience. | [View project](https://github.com/noor-digital/nova-shop) |
+| **Aeris Météo** | Weather application with city search and dynamic weather information. | [View project](https://github.com/noor-digital/aeris-meteo) |
+| **Sabaly Consulting** | Professional website presenting a consulting business and its services. | [View project](https://github.com/noor-digital/sabaly-consulting) |
+| **Vocal Queue System** | Queue management application with voice announcements. | [View project](https://github.com/noor-digital/vocal-queue-system) |
+| **Expense Tracker** | Personal expense tracking application with budgets and statistics. | [View project](https://github.com/noor-digital/expense-tracker) |
+| **To-Do List** | Interactive task management application. | [View project](https://github.com/noor-digital/todo-list) |
 
-**Tech:** HTML · CSS · JavaScript · Weather API
-
-### 💰 Expense Tracker
-
-A personal expense tracking application with budgeting, statistics, filtering, and local data persistence.
-
-**Tech:** HTML · CSS · JavaScript · LocalStorage
-
-### 🔊 Vocal Queue System
-
-An interactive queue management application featuring queue display and voice announcements.
-
-**Tech:** HTML · CSS · JavaScript
-
-### ✅ To-Do List
-
-A task management application demonstrating DOM manipulation and interactive task handling.
-
-**Tech:** HTML · CSS · JavaScript
-
-### 🌐 Sabaly Consulting
-
-A business website designed to present services, company information, and professional content.
-
-**Tech:** HTML · CSS · Bootstrap · JavaScript
+Explore more on the [NOOR DIGITAL portfolio](https://noor-digital.github.io/noor-digital-portfolio/).
 
 ---
 
 ## 🎯 Current Focus
 
-- Building stronger PHP and Laravel applications
-- Improving JavaScript architecture and API integration
-- Developing responsive, accessible, and polished user interfaces
-- Strengthening my software development practices through real projects
+- Building robust web applications with React, PHP, Laravel, and MySQL
+- Improving application architecture and API integration
+- Creating responsive, accessible, and polished user interfaces
+- Strengthening software development practices through practical projects
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [papeseck.dev@gmail.com](mailto\:papeseck.dev@gmail.com)
+- **Email:** [papeseck.dev@gmail.com](mailto:papeseck.dev@gmail.com)
 - **GitHub:** [@noor-digital](https://github.com/noor-digital)
+- **Portfolio:** [NOOR DIGITAL](https://noor-digital.github.io/noor-digital-portfolio/)
 
 ---
 
-*“Indeed, Allah loves that when one of you does a job, he perfects it.”*
+<p align="center">
+  <em>NOOR DIGITAL — La lumière qui structure.</em>
+</p>
