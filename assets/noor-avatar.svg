@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+<title id="t">NOOR DIGITAL — Avatar manga original</title><desc id="d">Portrait stylisé d'un personnage fictif de développeur manga, capuche sombre et accents dorés sur fond géométrique.</desc>
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#10131a"/><stop offset="1" stop-color="#4a3023"/></linearGradient><linearGradient id="g" x2="1" y2="1"><stop stop-color="#fff0b9"/><stop offset="1" stop-color="#bd783a"/></linearGradient><pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M24 1L47 24 24 47 1 24Z" fill="none" stroke="#e7b65e" opacity=".25"/></pattern></defs>
+<circle cx="256" cy="256" r="250" fill="#0b0d12"/><circle cx="256" cy="256" r="235" fill="url(#b)" stroke="url(#g)" stroke-width="8"/><circle cx="256" cy="256" r="215" fill="url(#p)"/>
+<path d="M96 470l39-137 50-77 68-40 73 36 56 78 37 140Z" fill="#10131a" stroke="#d9a34f" stroke-width="7"/>
+<path d="M143 245l10-99 65-76 103 3 75 84 10 104-57-40-45 9-49-13-47 31-37 51Z" fill="#090b10" stroke="#e7b65e" stroke-width="8"/>
+<path d="M177 219l55-36 46 9 42-13 61 39-36 27-48-7-42 15-49-12Z" fill="#20232d" stroke="#e7b65e" stroke-width="4"/>
+<path d="M206 225l34-8 27 7 29-8" fill="none" stroke="#fff0d0" stroke-width="9" stroke-linecap="round"/>
+<path d="M232 267l31-8 30 8" fill="none" stroke="#c98743" stroke-width="6" stroke-linecap="round"/>
+<path d="M115 300l-52 64M397 297l53 70" stroke="url(#g)" stroke-width="10" stroke-linecap="round"/>
+<path d="M180 414h152" stroke="#e7b65e" stroke-width="6"/><text x="256" y="458" text-anchor="middle" fill="#fff0d0" font-family="Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="5">NOOR</text>
+</svg>
