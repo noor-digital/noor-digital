@@ -1,145 +1,178 @@
-<!-- NOOR DIGITAL | Manga-inspired profile | Original artwork -->
+<!-- NOOR DIGITAL | GitHub profile -->
+
 <div align="center">
 
-<img src="./assets/manga-banner.svg" width="100%" alt="NOOR DIGITAL — Mamadou Dia Seck" />
+# Mamadou Dia Seck
 
-<img src="./assets/noor-avatar.svg" width="150" alt="Avatar manga original NOOR DIGITAL" />
+### Software Developer · Digital Products · Web Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=E7B65E&center=true&vCenter=true&width=780&lines=Je+transforme+les+id%C3%A9es+en+exp%C3%A9riences+digitales.;React+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel;Cr%C3%A9ativit%C3%A9.+Discipline.+Code.;Depuis+Dakar%2C+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3" alt="Présentation animée" />
+**NOOR DIGITAL — La lumière qui structure.**
 
-### **NOOR DIGITAL — La lumière qui structure.**
+I turn ideas and real-world needs into clear, useful and thoughtfully built digital experiences.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explorer-D9A441?style=for-the-badge&logo=googlechrome&logoColor=171717)](https://noor-digital.github.io/noor-digital-portfolio/)
-[![Email](https://img.shields.io/badge/CONTACT-Me_contacter-292929?style=for-the-badge&logo=gmail&logoColor=F5EAD7)](mailto:papeseck.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-noor--digital-292929?style=for-the-badge&logo=github&logoColor=F5EAD7)](https://github.com/noor-digital)
+[Dakar, Senegal](https://www.google.com/maps/search/?api=1&query=Dakar%2C+Senegal) · [Portfolio](https://noor-digital.github.io/noor-digital-portfolio/) · [Email](mailto:papeseck.dev@gmail.com) · [GitHub](https://github.com/noor-digital)
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-*Un parcours. Des défis. Des projets. Et toujours un nouveau chapitre à écrire.*
+I am a software developer based in Dakar, Senegal, interested in building digital products that solve practical problems.
 
-</div>
+My work moves across the full product process: understanding a need, shaping the experience, choosing an appropriate technical approach, building the application and refining the result.
 
-## ✦ CHAPITRE 01 — Le développeur
+I work primarily with **JavaScript, React, PHP, Laravel and MySQL**. I value clear interfaces, maintainable code, sound data structures and honest documentation. I use modern development tools, including AI-assisted tools, to support problem-solving and improve my workflow—not as a substitute for technical understanding.
 
-Je suis **Mamadou Dia Seck**, développeur web basé à **Dakar, Sénégal**, et étudiant en informatique à l'Université Virtuelle du Sénégal.
+Through **NOOR DIGITAL**, I bring together my projects, experiments and professional work under one identity.
 
-J'aime construire des expériences numériques utiles, soigner les détails d'interface et transformer une idée en produit concret. Avec **NOOR DIGITAL**, je développe une identité qui associe créativité, rigueur et technologie.
+## Selected work
 
-- 🎓 **Études :** Licence 2 en informatique — UVS
-- 💻 **Formation :** développement web Full Stack — 10 TECH
-- ⚛️ **Frontend :** React, JavaScript, HTML, CSS
-- 🧩 **Backend :** PHP, Laravel, MySQL
-- 🎯 **En quête de :** projets concrets, stages et opportunités junior
-- 🤝 **Ouvert aux :** collaborations et échanges professionnels
-
-## ⚡ CHAPITRE 02 — Arsenal technique
-
-<div align="center">
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="HTML CSS JavaScript React Tailwind Bootstrap" />
-
-**BACKEND & DATA**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="PHP Laravel MySQL" />
-
-**OUTILS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git GitHub VS Code Figma" />
-
-</div>
-
-## 📚 CHAPITRE 03 — Projets à découvrir
-
-| Projet | Ce que j'ai construit | Dépôt |
-|:--|:--|:--:|
-| **MANGORA** | Plateforme manga : découverte et lecture | [Ouvrir ↗](https://github.com/noor-digital/mangora) |
-| **NOVA SHOP** | Interface e-commerce, catalogue et panier | [Ouvrir ↗](https://github.com/noor-digital/nova-shop) |
-| **Aeris Météo** | Météo interactive et prévisions | [Ouvrir ↗](https://github.com/noor-digital/aeris-meteo) |
-| **Sabaly Consulting** | Site vitrine professionnel pour un client | [Ouvrir ↗](https://github.com/noor-digital/sabaly-consulting) |
-| **Expense Tracker** | Suivi des dépenses et budget | [Ouvrir ↗](https://github.com/noor-digital/expense-tracker) |
-| **Vocal Queue System** | File d'attente avec annonces vocales | [Ouvrir ↗](https://github.com/noor-digital/vocal-queue-system) |
-
-<div align="center">
-
-[![Tous les projets](https://img.shields.io/badge/EXPLORER-TOUS_LES_PROJETS-D9A441?style=for-the-badge&logo=github&logoColor=171717)](https://noor-digital.github.io/noor-digital-portfolio/)
-
-</div>
-
-## 🖼️ CHAPITRE 03.5 — Les projets en images
-
-*Quelques aperçus réels des applications en fonctionnement. Clique sur une image pour ouvrir la démo.*
+A selection of projects that reflects different aspects of my development work.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://noor-digital.github.io/mangora/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/images/projects/mangora-serie-fiche-desktop.png" width="100%" alt="Capture réelle de MANGORA, fiche de série manga" /></a>
-<strong>MANGORA</strong><br/>Plateforme immersive de découverte et de lecture.
+
+<a href="https://noor-digital.github.io/mangora/">
+<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/images/projects/mangora-serie-fiche-desktop.png" width="100%" alt="MANGORA series page preview" />
+</a>
+
+### [MANGORA](https://github.com/noor-digital/mangora)
+
+A cinematic manga discovery and reading experience, built as a browser-based frontend demonstration.
+
+- Search, catalogue filters and rankings
+- Series pages, chapter reader and reading progress
+- Personal library, preferences and responsive interactions
+
+**Built with:** React · JavaScript · Vite · CSS · Vitest
+
+[Live demo](https://noor-digital.github.io/mangora/) · [Source code](https://github.com/noor-digital/mangora)
+
 </td>
 <td width="50%" valign="top">
-<a href="https://noor-digital.github.io/aeris-meteo/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/aeris-meteo.png" width="100%" alt="Capture réelle de l'application Aeris Météo" /></a>
-<strong>AERIS MÉTÉO</strong><br/>Prévisions météo et ambiance dynamique selon le ciel.
+
+<a href="https://noor-digital.github.io/noor-digital-portfolio/">
+<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/noor-digital-portfolio.png" width="100%" alt="NOOR DIGITAL portfolio preview" />
+</a>
+
+### [NOOR DIGITAL Portfolio](https://github.com/noor-digital/noor-digital-portfolio)
+
+My professional portfolio: a multi-page experience presenting my work, approach and services.
+
+- Dedicated project, service and contact pages
+- Responsive interface and reusable components
+- Route-specific metadata and static page generation
+
+**Built with:** React 19 · React Router 7 · Vite · Motion · CSS
+
+[Live portfolio](https://noor-digital.github.io/noor-digital-portfolio/) · [Source code](https://github.com/noor-digital/noor-digital-portfolio)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://noor-digital.github.io/nova-shop/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/nova-shop.png" width="100%" alt="Capture réelle de NOVA SHOP" /></a>
-<strong>NOVA SHOP</strong><br/>Boutique interactive avec catalogue, favoris et panier.
+
+<a href="https://noor-digital.github.io/nova-shop/">
+<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/nova-shop.png" width="100%" alt="NOVA SHOP storefront preview" />
+</a>
+
+### [NOVA SHOP](https://github.com/noor-digital/nova-shop)
+
+A responsive storefront prototype focused on the shopping interface and client-side state.
+
+- Product search, category and price filters
+- Product details, cart and favourites
+- Persistent cart, favourites and theme preferences
+
+**Built with:** HTML · CSS · JavaScript ES modules
+
+*Frontend demonstration: no backend, accounts or real payment processing.*
+
+[Live demo](https://noor-digital.github.io/nova-shop/) · [Source code](https://github.com/noor-digital/nova-shop)
+
 </td>
 <td width="50%" valign="top">
-<a href="https://sabaly-consulting-green.vercel.app/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/sabaly-consulting.png" width="100%" alt="Capture réelle du site Sabaly Consulting" /></a>
-<strong>SABALY CONSULTING</strong><br/>Site vitrine professionnel multi-pages.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://to-do-list-sigma-woad-32.vercel.app/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/todo-list.png" width="100%" alt="Capture réelle de l'application To-Do List" /></a>
-<strong>TO-DO LIST</strong><br/>Organisation des tâches et sauvegarde locale.
-</td>
-<td width="50%" valign="top">
-<a href="https://vocal-queue-system.vercel.app/"><img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/vocal-queue-system.png" width="100%" alt="Capture réelle de Vocal Queue System" /></a>
-<strong>VOCAL QUEUE SYSTEM</strong><br/>Compteur de file d'attente avec annonces vocales.
+
+<a href="https://noor-digital.github.io/aeris-meteo/">
+<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/aeris-meteo.png" width="100%" alt="Aeris Météo weather app preview" />
+</a>
+
+### [Aeris Météo](https://github.com/noor-digital/aeris-meteo)
+
+A weather application where the interface adapts to the selected location's conditions and time of day.
+
+- City search and browser geolocation
+- Current conditions, 24-hour and 7-day forecasts
+- Weather-driven visual atmosphere and canvas effects
+
+**Built with:** HTML · CSS · JavaScript · Canvas · Open-Meteo API
+
+[Live demo](https://noor-digital.github.io/aeris-meteo/) · [Source code](https://github.com/noor-digital/aeris-meteo)
+
 </td>
 </tr>
 </table>
 
-## 📈 CHAPITRE 04 — Progression
+### [Sabaly Consulting](https://github.com/noor-digital/sabaly-consulting)
+
+A multi-page showcase website created for a client, presenting its services, programmes and references.
+
+**Built with:** HTML · CSS · Bootstrap · JavaScript
+
+[Live website](https://sabaly-consulting-green.vercel.app/) · [Source code](https://github.com/noor-digital/sabaly-consulting)
+
+## Currently developing
+
+### LearnHub — Learning Management Platform
+
+An ongoing Laravel application for managing training activity, including users and roles, courses, enrolments, lessons and assessments.
+
+**Current stack:** PHP 8.2+ · Laravel 12 · MySQL / MariaDB · JavaScript · Alpine.js · Vite · Tailwind CSS
+
+The longer-term product direction is a multi-institution SaaS platform. Multi-tenancy is a planned architectural direction, not a capability I claim as already delivered.
+
+[Repository](https://github.com/noor-digital/-learnhub)
+
+## Technical toolkit
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | JavaScript · React · HTML5 · CSS3 · Tailwind CSS · Bootstrap |
+| **Backend** | PHP · Laravel |
+| **Data** | MySQL |
+| **Development** | Git · GitHub · VS Code · Composer · Postman · Vite |
+| **Design & workflow** | Figma · Canva · Laragon · XAMPP |
+
+## How I approach development
+
+- **Understand the problem** — clarify the need before choosing a solution.
+- **Design with intention** — prioritize usability, accessibility and consistency.
+- **Build with structure** — keep responsibilities clear and code maintainable.
+- **Validate the result** — test key behaviour, handle errors and review edge cases.
+- **Document honestly** — make implemented features, limitations and next steps explicit.
+- **Keep improving** — learn continuously and turn that learning into working software.
+
+## Background
+
+- **Studies:** Licence 2 in Computer Science — Web, Mobile and Gaming Application Development, Université Virtuelle du Sénégal.
+- **Training:** Full Stack Web Development — 10H Tech.
+
+## Connect
+
+Have a project, a technical question or a meaningful opportunity to discuss? You can reach me here:
+
+- **Email:** [papeseck.dev@gmail.com](mailto:papeseck.dev@gmail.com)
+- **Portfolio:** [noor-digital.github.io/noor-digital-portfolio](https://noor-digital.github.io/noor-digital-portfolio/)
+- **GitHub:** [github.com/noor-digital](https://github.com/noor-digital)
+
+---
 
 <div align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=noor-digital&show_icons=true&hide_border=true&bg_color=17191B&title_color=E7B65E&icon_color=E7B65E&text_color=F1E8D8&rank_icon=github" alt="Statistiques GitHub" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noor-digital&layout=compact&hide_border=true&bg_color=17191B&title_color=E7B65E&text_color=F1E8D8&langs_count=6" alt="Langages utilisés" />
-
-<img src="https://streak-stats.demolab.com?user=noor-digital&hide_border=true&background=17191B&ring=E7B65E&fire=E7B65E&currStreakLabel=E7B65E&sideLabels=F1E8D8&dates=A9A195&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Série de contributions" />
-
-</div>
-
-## 🧭 CHAPITRE 05 — Quêtes actuelles
-
-- Concevoir des interfaces modernes, accessibles et responsive.
-- Développer des applications avec React et des solutions Full Stack.
-- Renforcer mes compétences en Laravel, API et qualité du code.
-- Transformer chaque apprentissage en réalisation concrète.
-
-## 🌙 PROCHAIN CHAPITRE — Construisons quelque chose
-
-<div align="center">
-
-**Une idée, une collaboration ou une opportunité ? Échangeons.**
-
-[![Email](https://img.shields.io/badge/EMAIL-papeseck.dev%40gmail.com-D9A441?style=flat-square&logo=gmail&logoColor=171717)](mailto:papeseck.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-NOOR_DIGITAL-292929?style=flat-square&logo=googlechrome&logoColor=white)](https://noor-digital.github.io/noor-digital-portfolio/)
-[![GitHub](https://img.shields.io/badge/GITHUB-noor--digital-292929?style=flat-square&logo=github&logoColor=white)](https://github.com/noor-digital)
 
 **NOOR DIGITAL — La lumière qui structure.**
 
-<sub>Créativité · Discipline · Développement · Dakar, Sénégal 🇸🇳</sub>
-
-<sub>Fin du chapitre ? Jamais. La suite s'écrit à chaque commit. ✦</sub>
+<sub>Built with curiosity, discipline and a commitment to thoughtful work. · Dakar, Senegal 🇸🇳</sub>
 
 </div>
