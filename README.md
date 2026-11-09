@@ -53,10 +53,6 @@ A cinematic manga discovery and reading experience, built as a browser-based fro
 </td>
 <td width="50%" valign="top">
 
-<a href="https://noor-digital.github.io/noor-digital-portfolio/">
-<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/noor-digital-portfolio.png" width="100%" alt="NOOR DIGITAL portfolio preview" />
-</a>
-
 ### [NOOR DIGITAL Portfolio](https://github.com/noor-digital/noor-digital-portfolio)
 
 My professional portfolio: a multi-page experience presenting my work, approach and services.
