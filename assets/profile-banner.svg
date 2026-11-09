@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">NOOR DIGITAL — Mamadou Dia Seck</title>
+<desc id="desc">A refined editorial banner for a software developer from Dakar, with warm ivory, charcoal, muted violet and brass geometric details.</desc>
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f3eb"/><stop offset="1" stop-color="#e8e0d4"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a99bc7"/><stop offset="1" stop-color="#706184"/></linearGradient>
+  <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9b878"/><stop offset="1" stop-color="#a77c42"/></linearGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M24 2 46 24 24 46 2 24Z M24 12 36 24 24 36 12 24Z" fill="none" stroke="#786a83" stroke-width="1" opacity=".12"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="360" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="360" fill="url(#paper)"/>
+  <rect x="760" width="440" height="360" fill="url(#grid)"/>
+  <path d="M0 0h1200v18H0z" fill="#292831"/>
+  <path d="M0 342h1200v18H0z" fill="#292831"/>
+  <path d="M0 285 440 0h140L140 360H0Z" fill="#fff" opacity=".25"/>
+  <path d="M805 360 1090 75h110v110L915 360Z" fill="url(#violet)" opacity=".14"/>
+  <g transform="translate(980 178)" fill="none" stroke="url(#brass)" stroke-width="2.2" opacity=".82">
+    <path d="M0-112 31-31 112 0 31 31 0 112-31 31-112 0-31-31Z"/>
+    <path d="M0-78 22-22 78 0 22 22 0 78-22 22-78 0-22-22Z"/>
+    <circle r="43"/>
+    <path d="M-112-112 112 112M112-112-112 112" opacity=".42"/>
+  </g>
+  <g transform="translate(825 70)" opacity=".78">
+    <path d="M0 220 35 126 93 88 145 105 184 165 207 220Z" fill="#35323a"/>
+    <path d="M48 108 51 61 82 20 132 10 171 38 183 91 158 79 132 91 105 82 78 103 65 133Z" fill="#28262d"/>
+    <path d="M78 98 108 89 132 94 153 88" fill="none" stroke="#e7d8bd" stroke-width="5" stroke-linecap="round"/>
+    <path d="M34 220 54 155 90 133 146 135 184 166 204 220" fill="none" stroke="#b79b72" stroke-width="2"/>
+    <path d="M93 144 121 160 151 145" fill="none" stroke="#a99bc7" stroke-width="3"/>
+  </g>
+  <path d="M68 72v216" stroke="url(#brass)" stroke-width="5"/>
+  <text x="98" y="92" fill="#786a83" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">NOOR DIGITAL</text>
+  <text x="96" y="171" fill="#292831" font-family="Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">MAMADOU DIA SECK</text>
+  <path d="M100 194h430" stroke="url(#brass)" stroke-width="3"/>
+  <text x="99" y="232" fill="#48434b" font-family="Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="2">SOFTWARE DEVELOPER · DIGITAL PRODUCTS</text>
+  <text x="100" y="270" fill="#706879" font-family="Arial,sans-serif" font-size="16" letter-spacing="1.5">DAKAR, SENEGAL  /  BUILD WITH CLARITY AND PURPOSE</text>
+  <text x="1100" y="320" text-anchor="end" fill="#786a83" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">LA LUMIÈRE QUI STRUCTURE</text>
+</g>
+</svg>
