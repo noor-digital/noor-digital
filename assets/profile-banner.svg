@@ -1,39 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">NOOR DIGITAL — Mamadou Dia Seck</title>
-<desc id="desc">A refined editorial banner for a software developer from Dakar, with warm ivory, charcoal, muted violet and brass geometric details.</desc>
-<defs>
-  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f3eb"/><stop offset="1" stop-color="#e8e0d4"/></linearGradient>
-  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a99bc7"/><stop offset="1" stop-color="#706184"/></linearGradient>
-  <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9b878"/><stop offset="1" stop-color="#a77c42"/></linearGradient>
-  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M24 2 46 24 24 46 2 24Z M24 12 36 24 24 36 12 24Z" fill="none" stroke="#786a83" stroke-width="1" opacity=".12"/></pattern>
-  <clipPath id="clip"><rect width="1200" height="360" rx="22"/></clipPath>
-</defs>
-<g clip-path="url(#clip)">
-  <rect width="1200" height="360" fill="url(#paper)"/>
-  <rect x="760" width="440" height="360" fill="url(#grid)"/>
-  <path d="M0 0h1200v18H0z" fill="#292831"/>
-  <path d="M0 342h1200v18H0z" fill="#292831"/>
-  <path d="M0 285 440 0h140L140 360H0Z" fill="#fff" opacity=".25"/>
-  <path d="M805 360 1090 75h110v110L915 360Z" fill="url(#violet)" opacity=".14"/>
-  <g transform="translate(980 178)" fill="none" stroke="url(#brass)" stroke-width="2.2" opacity=".82">
-    <path d="M0-112 31-31 112 0 31 31 0 112-31 31-112 0-31-31Z"/>
-    <path d="M0-78 22-22 78 0 22 22 0 78-22 22-78 0-22-22Z"/>
-    <circle r="43"/>
-    <path d="M-112-112 112 112M112-112-112 112" opacity=".42"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="t d" preserveAspectRatio="xMidYMid meet">
+  <title id="t">NOOR DIGITAL — Mamadou Dia Seck · Software Developer, Digital Products, Web Applications</title>
+  <desc id="d">Editorial GitHub profile banner. Warm ivory canvas, violet aperture over a technical lattice, bold typography. NOOR DIGITAL — La lumière qui structure.</desc>
+  <defs>
+    <radialGradient id="aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5433EB" stop-opacity="0.55"/>
+      <stop offset="38%" stop-color="#5433EB" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#5433EB" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F6F1E7"/>
+      <stop offset="1" stop-color="#EEE8DA"/>
+    </linearGradient>
+    <pattern id="lattice" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0v28M0 28h28" fill="none" stroke="#171717" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect x="0" y="0" width="1200" height="400" rx="20" ry="20"/></clipPath>
+    <mask id="rightMask">
+      <rect x="0" y="0" width="1200" height="400" fill="black"/>
+      <rect x="540" y="0" width="660" height="400" fill="white"/>
+    </mask>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- Canvas -->
+    <rect width="1200" height="400" fill="url(#horizon)"/>
+
+    <!-- Technical lattice (right third) -->
+    <rect width="1200" height="400" fill="url(#lattice)" mask="url(#rightMask)"/>
+
+    <!-- Hairline rules framing the composition -->
+    <path d="M0 1 h1200" stroke="#171717" stroke-opacity="0.18" stroke-width="2"/>
+    <path d="M0 399 h1200" stroke="#171717" stroke-opacity="0.18" stroke-width="2"/>
+
+    <!-- Aperture: concentric rings -->
+    <g transform="translate(920 200)" fill="none" stroke="#5433EB">
+      <circle r="168" stroke-opacity="0.10" stroke-width="1"/>
+      <circle r="132" stroke-opacity="0.16" stroke-width="1"/>
+      <circle r="96"  stroke-opacity="0.26" stroke-width="1"/>
+      <circle r="60"  stroke-opacity="0.44" stroke-width="1.2"/>
+      <!-- cardinal ticks -->
+      <path d="M-182 0 h-18 M182 0 h18 M0 -182 v-18 M0 182 v18" stroke-width="2" stroke-opacity="0.38"/>
+      <!-- Diagonal scaffolding -->
+      <path d="M-156 -156 L156 156 M-156 156 L156 -156" stroke-opacity="0.08" stroke-width="1"/>
+    </g>
+
+    <!-- Light aura -->
+    <circle cx="920" cy="200" r="200" fill="url(#aura)"/>
+    <circle cx="920" cy="200" r="22" fill="#5433EB"/>
+    <circle cx="920" cy="200" r="6"  fill="#F6F1E7"/>
+
+    <!-- Left editorial rule -->
+    <path d="M60 86 v228" stroke="#5433EB" stroke-width="2"/>
+
+    <!-- NOOR DIGITAL mark -->
+    <g transform="translate(80 100)">
+      <circle cx="0" cy="-6" r="6" fill="#5433EB"/>
+      <text x="18" y="0" fill="#171717" font-family="'Inter','Segoe UI',Roboto,system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="3.6">NOOR DIGITAL</text>
+    </g>
+
+    <!-- Hero name -->
+    <text x="80" y="212" fill="#171717" font-family="'Inter','Segoe UI',Roboto,system-ui,sans-serif" font-size="64" font-weight="700" letter-spacing="-1.6">MAMADOU DIA SECK</text>
+
+    <!-- Divider -->
+    <path d="M80 238 h340" stroke="#171717" stroke-opacity="0.22" stroke-width="1.5"/>
+
+    <!-- Positioning line -->
+    <text x="80" y="270" fill="#3F3B45" font-family="'Inter','Segoe UI',Roboto,system-ui,sans-serif" font-size="16" font-weight="500" letter-spacing="2.4">SOFTWARE DEVELOPER · DIGITAL PRODUCTS · WEB APPLICATIONS</text>
+
+    <!-- Signature -->
+    <text x="80" y="326" fill="#6E6A6F" font-family="'Inter','Segoe UI',Roboto,system-ui,sans-serif" font-size="12" font-weight="500" letter-spacing="3">LA LUMIÈRE QUI STRUCTURE  ·  DAKAR, SÉNÉGAL</text>
+
+    <!-- Top-right edition tag -->
+    <g transform="translate(1152 32)" text-anchor="end">
+      <text fill="#171717" fill-opacity="0.45" font-family="'Inter','Segoe UI',Roboto,system-ui,sans-serif" font-size="10" font-weight="600" letter-spacing="3">EDITION 2026</text>
+    </g>
   </g>
-  <g transform="translate(825 70)" opacity=".78">
-    <path d="M0 220 35 126 93 88 145 105 184 165 207 220Z" fill="#35323a"/>
-    <path d="M48 108 51 61 82 20 132 10 171 38 183 91 158 79 132 91 105 82 78 103 65 133Z" fill="#28262d"/>
-    <path d="M78 98 108 89 132 94 153 88" fill="none" stroke="#e7d8bd" stroke-width="5" stroke-linecap="round"/>
-    <path d="M34 220 54 155 90 133 146 135 184 166 204 220" fill="none" stroke="#b79b72" stroke-width="2"/>
-    <path d="M93 144 121 160 151 145" fill="none" stroke="#a99bc7" stroke-width="3"/>
-  </g>
-  <path d="M68 72v216" stroke="url(#brass)" stroke-width="5"/>
-  <text x="98" y="92" fill="#786a83" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">NOOR DIGITAL</text>
-  <text x="96" y="171" fill="#292831" font-family="Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">MAMADOU DIA SECK</text>
-  <path d="M100 194h430" stroke="url(#brass)" stroke-width="3"/>
-  <text x="99" y="232" fill="#48434b" font-family="Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="2">SOFTWARE DEVELOPER · DIGITAL PRODUCTS</text>
-  <text x="100" y="270" fill="#706879" font-family="Arial,sans-serif" font-size="16" letter-spacing="1.5">DAKAR, SENEGAL  /  BUILD WITH CLARITY AND PURPOSE</text>
-  <text x="1100" y="320" text-anchor="end" fill="#786a83" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">LA LUMIÈRE QUI STRUCTURE</text>
-</g>
 </svg>
