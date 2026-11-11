@@ -32,6 +32,29 @@ My core tools include **JavaScript, React, PHP, Laravel and MySQL**. I care abou
 
 A focused selection of projects, each linked to its live demonstration and source code.
 
+### [NOOR SHOP](https://github.com/noor-digital/noor-shop) — Current flagship
+
+<a href="https://github.com/noor-digital/noor-shop">
+<img src="https://raw.githubusercontent.com/noor-digital/noor-shop/main/docs/visual-review/final/contact-sheet.png" width="100%" alt="NOOR SHOP — contact sheet of the 11 main screens" />
+</a>
+
+A multi-tenant SaaS platform designed to let Senegalese merchants launch and manage their own online stores in XOF, with cash-on-delivery or pickup — no online payment is simulated. Phase 1 (the complete frontend) is published; the Laravel + Inertia.js + MySQL backend is planned as Phase 2.
+
+- Four spaces — marketing site, customer-facing storefronts, merchant workspace, platform administration.
+- Three store templates sharing one design system: **Marble**, **Editorial**, **Gallery**.
+- Mono-store cart with `localStorage` persistence; full purchase flow validated end-to-end with Playwright.
+- 37 real captures (desktop 1440 px + mobile 390 px) bundled in [`docs/visual-review/final/`](https://github.com/noor-digital/noor-shop/tree/main/docs/visual-review/final).
+- Responsive verified from 320 to 1440 px; sidebars sticky on desktop, drawer on mobile.
+
+**Current stack:** React 18 · Vite · Tailwind CSS · React Router
+**Planned backend:** Laravel · Inertia.js · MySQL
+
+*Scope note — Phase 1 (frontend) is complete and published. Phase 2 (backend, real authentication, persistence, payment integrations) is intentionally not implemented and is described in the project's specification.*
+
+[Source](https://github.com/noor-digital/noor-shop) · [Visual review](https://github.com/noor-digital/noor-shop/tree/main/docs/visual-review/final) · [Specification](https://github.com/noor-digital/noor-shop/blob/main/docs/CAHIER-DES-CHARGES.md)
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
