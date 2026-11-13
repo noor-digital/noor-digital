@@ -1,4 +1,4 @@
-<!-- NOOR DIGITAL | GitHub profile -->
+<!-- NOOR DIGITAL | GitHub profile README -->
 
 <div align="center">
 
@@ -6,183 +6,158 @@
 
 # Mamadou Dia Seck
 
-### Software Developer · Digital Products · Web Applications
+### Software Developer · Web Applications · Digital Products
 
 **NOOR DIGITAL — La lumière qui structure.**
 
-I turn real needs into useful digital products through thoughtful design, clear engineering and continuous refinement.
+I build practical digital experiences by combining thoughtful interfaces, structured engineering and continuous improvement.
 
-[Dakar, Senegal](https://www.google.com/maps/search/?api=1&query=Dakar%2C+Senegal) · [Portfolio](https://noor-digital.github.io/noor-digital-portfolio/) · [Email](mailto:papeseck.dev@gmail.com) · [GitHub](https://github.com/noor-digital)
+[Dakar, Senegal](https://www.google.com/maps/search/?api=1&query=Dakar%2C+Senegal) · [Portfolio](https://noor-digital.github.io/noor-digital-portfolio/) · [Email](mailto:papeseck.dev@gmail.com)
 
 </div>
 
 ---
 
-## Profile
+## About
 
-I am a software developer based in Dakar, Senegal, interested in building digital products that solve practical problems.
+I am a software developer based in Dakar, Senegal, and an undergraduate computer science student focused on web, mobile and gaming application development.
 
-My work spans the product process: understanding a need, shaping the experience, selecting an appropriate technical approach, implementing the solution and refining it.
+I enjoy taking a problem from its first requirements to a working product: understanding the need, shaping the user experience, choosing an appropriate technical approach, building the solution and refining it through testing and feedback.
 
-My core tools include **JavaScript, React, PHP, Laravel and MySQL**. I care about usable interfaces, maintainable code, thoughtful data design and honest technical documentation. AI-assisted tools are part of my workflow when they help accelerate research and implementation; they do not replace engineering judgement.
+My main development stack includes **JavaScript, React, PHP, Laravel and MySQL**. I value clear interfaces, maintainable code, reliable behaviour and documentation that accurately describes what a product can — and cannot — do.
 
-**NOOR DIGITAL** is my professional identity and the home for my projects, experiments and selected client work.
+**NOOR DIGITAL** is my professional identity: a space for selected projects, experiments and client work.
 
-## Selected work
+## Featured project
 
-A focused selection of projects, each linked to its live demonstration and source code.
-
-### [NOOR SHOP](https://github.com/noor-digital/noor-shop) — Current flagship
+### NOOR SHOP — Multi-store commerce platform
 
 <a href="https://github.com/noor-digital/noor-shop">
-<img src="https://raw.githubusercontent.com/noor-digital/noor-shop/main/docs/visual-review/final/contact-sheet.png" width="100%" alt="NOOR SHOP — contact sheet of the 11 main screens" />
+<img src="https://raw.githubusercontent.com/noor-digital/noor-shop/main/docs/visual-review/final/contact-sheet.png" width="100%" alt="NOOR SHOP — overview of the main application screens" />
 </a>
 
-A multi-tenant SaaS platform designed to let Senegalese merchants launch and manage their own online stores in XOF, with cash-on-delivery or pickup — no online payment is simulated. Phase 1 (the complete frontend) is published; the Laravel + Inertia.js + MySQL backend is planned as Phase 2.
+A commerce platform concept designed for merchants in Senegal and French-speaking Africa. Its goal is to let independent merchants create and manage online storefronts, while providing a central administration space for the platform.
 
-- Four spaces — marketing site, customer-facing storefronts, merchant workspace, platform administration.
-- Three store templates sharing one design system: **Marble**, **Editorial**, **Gallery**.
-- Mono-store cart with `localStorage` persistence; full purchase flow validated end-to-end with Playwright.
-- 37 real captures (desktop 1440 px + mobile 390 px) bundled in [`docs/visual-review/final/`](https://github.com/noor-digital/noor-shop/tree/main/docs/visual-review/final).
-- Responsive verified from 320 to 1440 px; sidebars sticky on desktop, drawer on mobile.
+**What the published frontend prototype covers**
+- Four distinct areas: public website, customer storefronts, merchant workspace and platform administration.
+- Three storefront directions: Marble, Editorial and Gallery.
+- Product catalogues, product pages, cart and checkout journey.
+- Merchant tools for products, orders, customers, stock, analytics and storefront customisation.
+- Responsive layouts and a documented visual review.
 
-**Current stack:** React 18 · Vite · Tailwind CSS · React Router
-**Planned backend:** Laravel · Inertia.js · MySQL
+**Technology:** React 18 · Vite · Tailwind CSS · React Router
 
-*Scope note — Phase 1 (frontend) is complete and published. Phase 2 (backend, real authentication, persistence, payment integrations) is intentionally not implemented and is described in the project's specification.*
+**Project status:** The frontend prototype (Phase 1) is published in the repository. The Laravel backend, real authentication, server-side persistence and payment integrations are not yet implemented. The current prototype does not simulate online payment.
 
-[Source](https://github.com/noor-digital/noor-shop) · [Visual review](https://github.com/noor-digital/noor-shop/tree/main/docs/visual-review/final) · [Specification](https://github.com/noor-digital/noor-shop/blob/main/docs/CAHIER-DES-CHARGES.md)
+[Repository](https://github.com/noor-digital/noor-shop) · [Visual review](https://github.com/noor-digital/noor-shop/tree/main/docs/visual-review/final) · [Product specification](https://github.com/noor-digital/noor-shop/blob/main/docs/CAHIER-DES-CHARGES.md)
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected projects
+
+A selection of work across web applications, interfaces and client websites.
+
+### MANGORA — Manga discovery and reading experience
 
 <a href="https://noor-digital.github.io/mangora/">
-<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/images/projects/mangora-serie-fiche-desktop.png" width="100%" alt="MANGORA series page" />
+<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/images/projects/mangora-serie-fiche-desktop.png" width="100%" alt="MANGORA series detail page" />
 </a>
 
-### [MANGORA](https://github.com/noor-digital/mangora)
+A browser-based experience for discovering manga, exploring series and reading chapters.
 
-A cinematic manga discovery and reading experience, built as a browser-based frontend demonstration.
+- Search, catalogue filters and rankings.
+- Series details, chapter reader and reading progress.
+- Personal library, preferences and responsive interactions.
 
-- Search, catalogue filters and rankings
-- Series pages, chapter reader and reading progress
-- Personal library, preferences and responsive interactions
+**Technology:** React · JavaScript · Vite · React Router · Vitest
 
-**Stack:** React 18 · JavaScript · Vite · CSS · React Router · Vitest
+[Live demo](https://noor-digital.github.io/mangora/) · [Source code](https://github.com/noor-digital/mangora)
 
-[Live demo](https://noor-digital.github.io/mangora/) · [Source](https://github.com/noor-digital/mangora)
+### NOOR DIGITAL — Professional portfolio
 
-</td>
-<td width="50%" valign="top">
+A multi-page portfolio presenting my profile, selected work, services and approach to development.
 
-<a href="https://noor-digital.github.io/noor-digital-portfolio/">Open the live portfolio</a>
+- Dedicated pages for projects, services, background and contact.
+- Responsive interface and reusable components.
+- Route-specific metadata and generated static pages.
 
-### [NOOR DIGITAL Portfolio](https://github.com/noor-digital/noor-digital-portfolio)
+**Technology:** React 19 · React Router 7 · Vite 8 · Motion · CSS
 
-My multi-page professional portfolio, presenting selected work, services and development approach.
+[Live portfolio](https://noor-digital.github.io/noor-digital-portfolio/) · [Source code](https://github.com/noor-digital/noor-digital-portfolio)
 
-- Dedicated project, service and contact pages
-- Responsive interface and reusable components
-- Route-specific metadata and generated static pages
+### Aeris Météo — Weather application
 
-**Stack:** React 19 · React Router 7 · Vite 8 · Motion · CSS
+A weather interface whose atmosphere adapts to the selected location, current conditions and time of day.
 
-[Live portfolio](https://noor-digital.github.io/noor-digital-portfolio/) · [Source](https://github.com/noor-digital/noor-digital-portfolio)
+- City search and browser geolocation.
+- Current conditions, hourly forecast and 7-day outlook.
+- Weather-driven backgrounds and canvas effects.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Technology:** HTML · CSS · JavaScript · Canvas · Open-Meteo API
 
-<a href="https://noor-digital.github.io/nova-shop/">
-<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/nova-shop.png" width="100%" alt="NOVA SHOP storefront" />
-</a>
+[Live demo](https://noor-digital.github.io/aeris-meteo/) · [Source code](https://github.com/noor-digital/aeris-meteo)
 
-### [NOVA SHOP](https://github.com/noor-digital/nova-shop)
+### NOVA SHOP — Storefront prototype
 
-A responsive storefront prototype focused on the shopping interface and client-side state.
+A browser-only storefront focused on product discovery and a client-side shopping experience.
 
-- Product search, category and price filters
-- Product details, cart and favourites
-- Persistent cart, favourites and theme preferences
+- Product search, category and price filters.
+- Product details, cart and favourites.
+- Cart, favourites and theme preferences stored locally.
 
-**Stack:** HTML · CSS · JavaScript ES modules
+**Technology:** HTML · CSS · JavaScript ES modules
 
-*Frontend demonstration only: no backend, user accounts or real payment processing.*
+*Frontend demonstration only: it has no backend, customer accounts or real payment processing.*
 
-[Live demo](https://noor-digital.github.io/nova-shop/) · [Source](https://github.com/noor-digital/nova-shop)
+[Live demo](https://noor-digital.github.io/nova-shop/) · [Source code](https://github.com/noor-digital/nova-shop)
 
-</td>
-<td width="50%" valign="top">
+### Sabaly Consulting — Client website
 
-<a href="https://noor-digital.github.io/aeris-meteo/">
-<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/aeris-meteo.png" width="100%" alt="Aeris Météo weather application" />
-</a>
+A multi-page showcase website created for a client to present its services, programmes and references.
 
-### [Aeris Météo](https://github.com/noor-digital/aeris-meteo)
+**Technology:** HTML · CSS · Bootstrap · JavaScript
 
-A weather application whose visual atmosphere adapts to the selected location's conditions and time of day.
+[Live website](https://sabaly-consulting-green.vercel.app/) · [Source code](https://github.com/noor-digital/sabaly-consulting)
 
-- City search and browser geolocation
-- Current conditions, 24-hour and 7-day forecasts
-- Weather-driven backgrounds and canvas effects
+## Currently building
 
-**Stack:** HTML · CSS · JavaScript · Canvas · Open-Meteo API
+### LearnHub — Learning management platform
 
-[Live demo](https://noor-digital.github.io/aeris-meteo/) · [Source](https://github.com/noor-digital/aeris-meteo)
+An ongoing Laravel application for managing training activity, including users and roles, courses, enrolments, lessons, assessments and results.
 
-</td>
-</tr>
-</table>
+**Current technology:** PHP · Laravel 12 · MySQL / MariaDB · JavaScript · Alpine.js · Vite · Tailwind CSS
 
-### [Sabaly Consulting](https://github.com/noor-digital/sabaly-consulting)
+The intended product direction is a multi-institution SaaS platform. Multi-tenancy is a planned architectural direction, not a capability claimed as already delivered.
 
-A static multi-page showcase website created for a client, presenting its services, programmes and references.
-
-**Stack:** HTML · CSS · Bootstrap 5 · JavaScript
-
-[Live website](https://sabaly-consulting-green.vercel.app/) · [Source](https://github.com/noor-digital/sabaly-consulting)
-
-## In development
-
-### [LearnHub — Learning Management Platform](https://github.com/noor-digital/-learnhub)
-
-An ongoing Laravel application exploring the management of training activity, including users and roles, courses, enrolments, lessons and assessments.
-
-**Current stack:** PHP · Laravel 12 · MySQL / MariaDB · JavaScript · Alpine.js · Vite · Tailwind CSS
-
-The intended product direction is a multi-institution SaaS platform. Multi-tenancy remains a planned architectural direction; it is not presented as an already delivered capability.
+[Source code](https://github.com/noor-digital/-learnhub)
 
 ## Technical toolkit
 
-| Focus | Technologies |
+| Area | Technologies |
 |---|---|
 | **Frontend** | JavaScript · React · HTML5 · CSS3 · Tailwind CSS · Bootstrap |
 | **Backend** | PHP · Laravel |
-| **Data** | MySQL |
-| **Engineering tools** | Git · GitHub · VS Code · Composer · Postman · Vite |
-| **Design & workflow** | Figma · Canva · Laragon · XAMPP |
+| **Database** | MySQL |
+| **Tools** | Git · GitHub · VS Code · Composer · Postman · Vite |
+| **Design & local development** | Figma · Canva · Laragon · XAMPP |
 
-## Engineering approach
+## How I approach development
 
-- **Understand first** — clarify the problem before selecting a technology.
-- **Design intentionally** — prioritize usability, accessibility and consistency.
-- **Build with structure** — separate responsibilities and keep code maintainable.
-- **Validate behaviour** — test key flows, errors and edge cases.
-- **Document honestly** — distinguish shipped functionality from limitations and plans.
-- **Improve continuously** — turn research and learning into working software.
+- **Understand the problem** — clarify the need before choosing a solution.
+- **Design for people** — make interfaces clear, consistent and usable.
+- **Build with structure** — keep responsibilities separated and code maintainable.
+- **Validate the result** — check important user journeys, errors and edge cases.
+- **Document honestly** — distinguish implemented features from prototypes and future plans.
+- **Keep improving** — learn, review and refine rather than stopping at the first working version.
 
 ## Background
 
 - **Studies:** Licence 2 in Computer Science — Web, Mobile and Gaming Application Development, Université Virtuelle du Sénégal.
 - **Training:** Full Stack Web Development — 10H Tech.
 
-## Connect
+## Let's connect
 
-For a project, a technical discussion or a meaningful opportunity:
+I am open to meaningful professional opportunities, project discussions and collaborations.
 
 - **Email:** [papeseck.dev@gmail.com](mailto:papeseck.dev@gmail.com)
 - **Portfolio:** [noor-digital.github.io/noor-digital-portfolio](https://noor-digital.github.io/noor-digital-portfolio/)
