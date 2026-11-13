@@ -87,6 +87,10 @@ A multi-page portfolio presenting my profile, selected work, services and approa
 
 ### Aeris Météo — Weather application
 
+<a href="https://noor-digital.github.io/aeris-meteo/">
+<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/aeris-meteo.png" width="100%" alt="Aeris Météo — weather application interface" />
+</a>
+
 A weather interface whose atmosphere adapts to the selected location, current conditions and time of day.
 
 - City search and browser geolocation.
@@ -98,6 +102,10 @@ A weather interface whose atmosphere adapts to the selected location, current co
 [Live demo](https://noor-digital.github.io/aeris-meteo/) · [Source code](https://github.com/noor-digital/aeris-meteo)
 
 ### NOVA SHOP — Storefront prototype
+
+<a href="https://noor-digital.github.io/nova-shop/">
+<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/nova-shop.png" width="100%" alt="NOVA SHOP — storefront interface" />
+</a>
 
 A browser-only storefront focused on product discovery and a client-side shopping experience.
 
@@ -112,6 +120,10 @@ A browser-only storefront focused on product discovery and a client-side shoppin
 [Live demo](https://noor-digital.github.io/nova-shop/) · [Source code](https://github.com/noor-digital/nova-shop)
 
 ### Sabaly Consulting — Client website
+
+<a href="https://sabaly-consulting-green.vercel.app/">
+<img src="https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/sabaly-consulting.png" width="100%" alt="Sabaly Consulting — client website" />
+</a>
 
 A multi-page showcase website created for a client to present its services, programmes and references.
 
